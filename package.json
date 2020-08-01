@@ -1,0 +1,15 @@
+{
+  "name": "assessment",
+  "version": "1.0.0",
+  "description": "Simple Scraping",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Piyush Tyagi",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {}
+}
